@@ -1,7 +1,7 @@
 ---
 title:
   en: "My Fawry Wallet"
-  ar: "ماي فوري"
+  ar: "محفظة ماي فوري"
 description:
   en: "Complete guide to My Fawry"
   ar: "دليل شامل لماي فوري"
