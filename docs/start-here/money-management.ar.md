@@ -1,18 +1,18 @@
 ---
 title:
-  en: "why manage my money"
-  ar: "لبه ادير فلوسي"
+  en: "Money Management"
+  ar: "إدارة الأموال"
 description:
-  en: "Comparison between popular e-wallets in egypt"
-  ar: "مقارنة شاملة لاشهر محافظ موبايل في مصر"
-order: 2
+  en: "How to manage your budget smartly."
+  ar: "كيفية إدارة ميزانيتك بذكاء."
+order: 3
 category_order: 1
 category_title:
-  en: "Basics"
+  en: "The Basics"
   ar: "الأساسيات"
 category_description:
-  en: "Basics"
-  ar: "مفاهيم عامة ومبادئ أساسية"
+  en: "How to save, budget, and understand money basics before you start investing."
+  ar: "إزاي تحوش، تعمل ميزانية، وتفهم أساسيات الفلوس قبل ما تبدأ تستثمر عشان متخسرش."
 hidden: false
 ---
 
