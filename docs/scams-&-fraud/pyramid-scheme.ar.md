@@ -1,3 +1,21 @@
+---
+title:
+  en: "Pyramid Schemes"
+  ar: "النصب الهرمي"
+description:
+  en: "Understanding how pyramid schemes work and why to avoid them."
+  ar: "افهم إزاي بيشتغل النصب الهرمي ولييه لازم تبعد عنه."
+order: 4
+category_order: 8
+category_title:
+  en: "Scams & Fraud"
+  ar: "النصب والاحتيال"
+category_description:
+  en: "How to spot, avoid, and report financial scams in Egypt."
+  ar: "إزاي تكتشف وتتجنب وتبلغ عن عمليات النصب والاحتيال المالي في مصر."
+hidden: false
+---
+
 # علامات تحذيرية للتسويق الشبكي الهرمي (نظام النصب الحديث)
 
 ## 1: لازم تدفع فلوس (عشان تبدأ)
