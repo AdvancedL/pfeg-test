@@ -1,3 +1,21 @@
+---
+title:
+  en: "Saving vs Investment"
+  ar: "التحويش ضد الاستثمار"
+description:
+  en: "Understanding the difference between saving and investing."
+  ar: "فهم الفرق بين التحويش والاستثمار."
+order: 1
+category_order: 5
+category_title:
+  en: "Investing"
+  ar: "استثمار"
+category_description:
+  en: "Thndr, Gold, Real Estate, and Index Funds."
+  ar: "ثندر، دهب، عقارات، وصناديق استثمار."
+hidden: false
+---
+
 # يعني ايه التحويش و الاستثمار
 
 التحويش تحفظ فلوسك عشان الامان  
