@@ -1,21 +1,20 @@
 ---
 title:
-  en: "Dictionary"
-  ar: "القاموس المالي"
+  en: "Finance Dictionary"
+  ar: "قاموس المصطلحات المالية"
 description:
-  en: "Comparison between popular e-wallets in egypt"
-  ar: "مقارنة شاملة لاشهر محافظ موبايل في مصر"
+  en: "A guide to understanding key financial terms."
+  ar: "دليل لفهم المصطلحات المالية الأساسية."
 order: 1
 category_order: 1
 category_title:
-  en: "Basics"
+  en: "The Basics"
   ar: "الأساسيات"
 category_description:
-  en: "Basics"
-  ar: "مفاهيم عامة ومبادئ أساسية"
+  en: "How to save, budget, and understand money basics before you start investing."
+  ar: "إزاي تحوش، تعمل ميزانية، وتفهم أساسيات الفلوس قبل ما تبدأ تستثمر عشان متخسرش."
 hidden: false
 ---
-
 
 # قاموس المصطلحات المالية المصري
 
