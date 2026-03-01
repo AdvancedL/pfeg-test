@@ -1,3 +1,21 @@
+---
+title:
+  en: "Common Scam Methods"
+  ar: "أشهر طرق النصب"
+description:
+  en: "A guide to the most common fraud schemes."
+  ar: "دليل لأشهر أساليب النصب المالي."
+order: 2
+category_order: 8
+category_title:
+  en: "Scams & Fraud"
+  ar: "النصب والاحتيال"
+category_description:
+  en: "How to spot, avoid, and report financial scams in Egypt."
+  ar: "إزاي تكتشف وتتجنب وتبلغ عن عمليات النصب والاحتيال المالي في مصر."
+hidden: false
+---
+
 # ١ انتحال صفه خدمه العملاء (مكالمات النصب)
 
 **بيحصل ازاي**  
