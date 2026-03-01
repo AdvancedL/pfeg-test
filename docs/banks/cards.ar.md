@@ -1,11 +1,18 @@
 ---
 title:
   en: "Debit, Prepaid & Credit Cards"
-  ar: "الديبت والبريبيد والكريدت كارد"
+  ar: "الديبيت والبريبيد والكريدت كارد"
 description:
   en: "What's the difference between debit, prepaid, and credit cards in Egypt"
-  ar: "إيه الفرق بين الديبت والبريبيد والكريدت كارد في مصر"
+  ar: "إيه الفرق بين الديبيت والبريبيد والكريدت كارد في مصر"
 order: 2
+category_order: 2
+category_title:
+  en: "Banks in Egypt"
+  ar: "البنوك"
+category_description:
+  en: "Public vs Private, Islamic Banking, Youth Accounts."
+  ar: "حكومي ولا خاص؟ إسلامي؟ حسابات الشباب."
 hidden: false
 ---
 
