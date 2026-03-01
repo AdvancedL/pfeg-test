@@ -72,8 +72,8 @@ hidden: false
 
 ## للمزيد
 
-- 📖 [Styling Guide](https://abjad.wiki/styling) — إزاي تكتب وتنسق الصفحات
-- 💬 [Issues](https://github.com/abjad-wiki/issues) — اقترح صفحة جديدة أو بلغ عن معلومة غلط
+- 📖 [Styling Guide](./STYLING.MD) -إزاي تكتب وتنسق الصفحات
+- 💬 [Issues](https://github.com/abjaad/pfeg/issues) - اقترح صفحة جديدة أو بلغ عن معلومة غلط
 
 ---
 
@@ -144,5 +144,5 @@ hidden: false
 
 ## More Resources
 
-- 📖 [Styling Guide](https://abjad.wiki/styling) — How to write and format pages
-- 💬 [Issues](https://github.com/abjad-wiki/issues) — Suggest a new page or report incorrect info
+- 📖 [Styling Guide](./STYLING.MD) - How to write and format pages
+- 💬 [Issues](https://github.com/abjaad/pfeg/issues) - Suggest a new page or report incorrect info
